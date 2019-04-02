@@ -1,0 +1,9 @@
+[package]
+name = "password-crack"
+version = "0.1.0"
+authors = ["Chris Olszewski <chrisdolszewski@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sha2 = "0.8"
+rayon = "1.0"
